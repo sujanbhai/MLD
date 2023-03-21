@@ -1,0 +1,1 @@
+Learning django framework with simple machine learning algorithm implementation.
